@@ -1,0 +1,6 @@
+[submodule "coffeescript-angularjs-client-starter"]
+	path = coffeescript-angularjs-client-starter
+	url = git@github.com:seedifferently/coffeescript-angularjs-client-starter.git
+[submodule "python-pyramid-starter"]
+	path = python-pyramid-starter
+	url = git@github.com:seedifferently/python-pyramid-starter.git
